@@ -15,7 +15,7 @@ Python, OpenCV
 Machine Learning and Computer Vision
 
 ## Results
- Confusion Matrix
+ ### Confusion Matrix
  ![image](https://github.com/user-attachments/assets/c9b90387-88c1-4405-83bf-d6c0febbebf5)
 
  It is a matrix where the rows represent the true identities, columns are the predicted identities, and diagonal elements are the number of correctly predicted identities 
@@ -23,7 +23,7 @@ Machine Learning and Computer Vision
  classified 'Aman' 9 times. The off-diagonal elements show misclassification. It misclassified 'Krishna' as 'Rohan' 3 times. Similarly, it misclassified 'Kendal' as 'Aman' 
  once and as 'Kohli' once as can be seen from the row 'Kendal' at the intersection of the columns 'Aman' and 'Kohli'.
 
- Receiver Operating Characteristics (ROC) and Area Under Curve (AUC)
+ ### Receiver Operating Characteristics (ROC) and Area Under Curve (AUC)
  ![image](https://github.com/user-attachments/assets/0c61a70f-cf7a-4062-8078-80f37037bfaf)
 
  This plot shows that class 'Hritesh' returns the highest AUC of 0.97, hence indicating excellent classification performance for this class, while classes like 'Karim' and 
