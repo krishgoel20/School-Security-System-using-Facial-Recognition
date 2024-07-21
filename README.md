@@ -18,7 +18,9 @@
 
 ## Results
  + ### 1. Confusion Matrix
-   + ![image](https://github.com/user-attachments/assets/c9b90387-88c1-4405-83bf-d6c0febbebf5)
+   <div align="center">
+    <img src="https://github.com/user-attachments/assets/c9b90387-88c1-4405-83bf-d6c0febbebf5">
+   </div>
 
    + It is a matrix where the rows represent the true identities, columns are the predicted identities, and diagonal elements are the number of correctly predicted 
    identities for each class; and others are misclassifications. The elements on the diagonal, in blue, indicate the correct predictions for each class of identity. It 
@@ -26,7 +28,9 @@
    as 'Aman' once and as 'Kohli' once as can be seen from the row 'Kendal' at the intersection of the columns 'Aman' and 'Kohli'.
 
  + ### 2. Receiver Operating Characteristics (ROC) and Area Under Curve (AUC)
-   + ![image](https://github.com/user-attachments/assets/0c61a70f-cf7a-4062-8078-80f37037bfaf)
+   <div align="center">
+    <img src="https://github.com/user-attachments/assets/0c61a70f-cf7a-4062-8078-80f37037bfaf">
+   </div>
 
    + This plot shows that class 'Hritesh' returns the highest AUC of 0.97, hence indicating excellent classification performance for this class, while classes like 'Karim' 
    and 'Krishna' returned a pretty poor AUC value of 0.61, hence their poor classification performance. The ROC curve helps to draw competition between TPR and FPR for each 
