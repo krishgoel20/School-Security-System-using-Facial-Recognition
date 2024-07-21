@@ -1,9 +1,6 @@
 ## Problem Statement
 Educational institutions face numerous challenges in trying to maintain a safe environment and effective administrative procedures. Regularly, attendance and identification tracking methods are manual, tedious, prone to errors and cannot offer real-time monitoring. Additionally, conventional access control systems may be vulnerable to hacking or security breaches. For that reason, there is need for an automated solution that will effectively address these issues with respect to school security at large.
 
-## Flow Diagram
-![image](https://github.com/user-attachments/assets/0d4531f3-0873-4eb2-858e-9e6b83185a34)
-
 ## Use Case Diagram 
 ![image](https://github.com/user-attachments/assets/a2c7156e-ed51-4a6d-9796-2cb46ffd1f5b)
 
