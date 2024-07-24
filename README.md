@@ -11,7 +11,7 @@
 2. Local Binary Pattern Histograms (LBPHs) - For Face Recognition
 
 ## Technologies Used
-+ Python, OpenCV
++ Python and OpenCV
 
 ## Domains
 + Machine Learning and Computer Vision
